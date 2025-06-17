@@ -1,6 +1,8 @@
 # ✅ EmployeeAdminTaskApp
-
+URL : https://employee-admin-task-app.vercel.app/
 A React-based web application that allows an **admin** to assign and manage tasks for **employees**. All task and employee data is stored locally in the browser using `localStorage`.
+Sample Employee: me@me.com and 123
+Admin: admin@me.com and 123
 
 ---
 
@@ -23,12 +25,8 @@ A React-based web application that allows an **admin** to assign and manage task
 ---
 
 ## 🚀 Getting Started
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/task-assignment-app.git
+git clone https://github.com/shashi187/EmployeeAdminTaskApp.git
 cd EmployeeAdminTaskApp
 npm i 
 npm run dev
-#login info and standard data in localstorage.jsx  
+ 
